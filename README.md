@@ -1,6 +1,5 @@
 🌿 Bio-Mimicry Innovation Engine
 
-Google AI Agents Capstone - Freestyle Track
 
 "3.8 billion years of R&D, available on demand."
 
@@ -61,7 +60,7 @@ Libraries: google-genai, requests
 
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/bio-mimicry-engine.git](https://github.com/mithulkannan17/Bio-Mimicry-agent.git)
+git clone (https://github.com/mithulkannan17/Bio-Mimicry-agent.git)
 cd bio-mimicry-engine
 
 
@@ -88,7 +87,6 @@ streamlit run app.py
 
 🧪 Example Prompts to Try
 
-"I need a drone that flies silently like an owl."
 
 "I need a building that stays cool without air conditioning."
 
