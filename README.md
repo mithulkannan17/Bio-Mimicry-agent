@@ -39,7 +39,6 @@ Output: A high-fidelity concept render of the invention.
 
 📸 Screenshots
 
-(Add your screenshots here! Example:)
 | The Interface | The Result |
 |:---:|:---:|
 |  |  |
