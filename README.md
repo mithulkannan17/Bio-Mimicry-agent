@@ -60,7 +60,8 @@ Libraries: google-genai, requests
 
 1. Clone the Repository
 
-git clone (https://github.com/mithulkannan17/Bio-Mimicry-agent.git)
+git clone https://github.com/mithulkannan17/Bio-Mimicry-agent.git
+
 cd bio-mimicry-engine
 
 
