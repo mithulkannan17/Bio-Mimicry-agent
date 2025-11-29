@@ -96,8 +96,4 @@ streamlit run app.py
 
 "I need a water bottle that collects moisture from fog."
 
-📄 License
 
-This project is open-source and available under the MIT License.
-
-Created for the Google AI Agents Intensive 2025.
